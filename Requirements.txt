@@ -1,0 +1,13 @@
+he program should be able:
+Insert String data
+Remove String data
+Print the stored strings in alphabetical order
+Print the stored strings in reverse alphabetical order
+The order of the tree should be configurable when it is created.
+
+This code makes a good reference for implementing your tree, be aware that as is, it violates the order properties for the tree, so this will need to be fixed.
+It also uses integers instead of strings.
+If you use it as a reference or base for your code be sure to reference the source in your code.
+https://programmer.group/b-tree-java-implementation.html
+
+The attached file can be used as a maim method to interact/test your B-Tree.
